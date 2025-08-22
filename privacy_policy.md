@@ -4,6 +4,8 @@ This privacy policy applies to the CMA Stock app (hereby referred to as "Applica
 
 ## Information Collection and Use
 The Application requires users to log in using an **email and password**. These accounts are **pre-created by the Service Provider** and are intended solely for internal use within the company.  
+- The login information is used only for authentication and to provide access to the Application’s features.  
+- Users cannot register or create new accounts through the Application.  
 
 The Application may also allow users to optionally provide:  
 - **Name**  
@@ -15,17 +17,18 @@ In addition, the Application allows authorized users to store **customer informa
 - Customer name  
 - Customer address  
 
-This customer information is entered manually by the user and is used only for order management and business operations. It is not shared with any third party outside the services listed below.
+This customer information is entered manually by the user and is used only for order management and internal business operations. It is not shared with any third party outside the services listed below.
 
 Other than login credentials, optional profile details, and customer order data, the Application stores only **non-personal item/product data** that is required for its functionality.
 
 ## Third-Party Services
 The Application uses trusted third-party services to store and manage data necessary for its functionality:
 
+- **Firebase Authentication (Google LLC)**: Used to provide secure login and authentication services. Login credentials (email and password) are processed by Firebase only for the purpose of granting access to the Application. Learn more: [Firebase Privacy Policy](https://firebase.google.com/support/privacy)  
 - **Firebase Firestore (Google LLC)**: Used to store and manage application data, including login credentials, optional profile details, customer order data, and item/product data. Learn more: [Firebase Privacy Policy](https://firebase.google.com/support/privacy)  
 - **Supabase (Supabase Inc.)**: Used as a backend service to store and manage application data. Learn more: [Supabase Privacy Policy](https://supabase.com/privacy)  
 
-These services are used only to support the Application’s functionality. No personal user data such as contacts or precise location is collected.
+These services are used only to support the Application’s functionality. No personal user data such as contacts, precise location, or files beyond the optional profile photo is collected.
 
 ## Data Retention and Deletion
 - **Login credentials**: Retained for as long as the account is active.  
